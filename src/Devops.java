@@ -9,7 +9,7 @@ public class Devops {
 		System.out.println("Fisrt devops program11111");
 		Devops d=new Devops();
 		d.addValue(100, 20);
-		Demo d1=new Demo();
+		//Demo d1=new Demo();
 		
 	}
 
